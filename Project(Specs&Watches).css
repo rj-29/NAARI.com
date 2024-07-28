@@ -1,0 +1,53 @@
+body{
+    background-image: url(Specs&Wathes.jpg);
+   background-size: cover;
+}
+h1{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(9, 9, 9);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    display: inline;
+    margin-left: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+h1:hover{
+text-shadow:10px 10px 20px goldenrod;
+}
+
+.card {
+    width:400px;
+    height: 545px;
+    border: 2px solid black ;
+    display: inline-block;
+    margin: 32px ;
+    margin-top:60px;
+    border-radius: 5px ;
+    box-shadow: 2px 4px 18px black ;
+    transition: 1s;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.desc{
+    padding: 0 2px 0 2px ;
+}
+
+img{
+    width: 100%;
+    border-radius: 5px 5px 0 0 ;
+}
+
+div{
+    background-color: rgb(173, 216, 230 , 0.4);
+
+}
+
+.card:hover{
+    box-shadow: 8px 16px 72px goldenrod ;
+}
