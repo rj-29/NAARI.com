@@ -8,8 +8,6 @@ NAARI.com is a website designed to empower women by providing easy access to var
 - Navigation Bar: Links to different categories including Fashion, Beauty, Footwear, Specs & Watches, Jewellery, and Bags.
 - Bookings & Memberships: Links to external resources for doctor's appointments, beauty parlours, spas, yoga classes, NGO participation, scholarships, gym memberships, and free eye checkups.
 
-# Responsive Design
-The site is designed to be responsive and adjusts to different screen sizes.
 
 # Tech Stacks
 - HTML: Markup language used to structure the content.
